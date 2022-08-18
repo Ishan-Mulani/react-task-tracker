@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Meeting at School",
+      "day": "15th Aug 08:00am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "SME connect",
+      "day": "16th Aug 12:00pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn React",
+      "day": "17th AUg",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
